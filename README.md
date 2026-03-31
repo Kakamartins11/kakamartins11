@@ -65,24 +65,6 @@ Status      : estudando · construindo · evoluindo
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa"/>
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff"/>
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
