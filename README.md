@@ -20,14 +20,14 @@
 ## `> whoami`
 
 ```yaml
-name       : Kaka Martins do Nascimento
-age        : 16
-location   : São Paulo, BR — Pirituba / Leopoldina
-education  :
+Nome      : Cauã Martins do Nascimento 
+Idade       : 16
+Localização   : São Paulo, BR — Pirituba / Leopoldina
+Estudando  :
   - ADS (Análise e Desenvolvimento de Sistemas) @ Basilides de Godoy
   - Ensino Médio @ Colégio Piritubano
-contact    : kakamartinsdonascimento@gmail.com
-status     : STUDYING // BUILDING // EVOLVING
+Contato   : kakamartinsdonascimento@gmail.com
+Status     : STUDYING // BUILDING // EVOLVING
 ```
 
 ---
