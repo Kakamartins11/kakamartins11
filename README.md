@@ -14,7 +14,7 @@
 
 ---
 
-## Sobre mim
+## -Sobre mim
 
 ```
 Nome        : Cauã Martins do Nascimento
@@ -28,11 +28,11 @@ Status      : estudando · construindo · evoluindo
 
 ---
 
-## Tecnologias
+## -Tecnologias-
 
 <div align="center">
 
-**Front-end**
+**-Front-end-**
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
@@ -43,12 +43,12 @@ Status      : estudando · construindo · evoluindo
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 
-**Dados**
+**-Dados-**
 
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-000000?style=flat-square&logo=postgresql&logoColor=white)
 
-**Plataforma**
+**-Plataforma-**
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=flat-square&logo=salesforce&logoColor=white)
 
@@ -56,7 +56,7 @@ Status      : estudando · construindo · evoluindo
 
 ---
 
-## Atualmente
+## -Atualmente
 
 - Cursando Análise e Desenvolvimento de Sistemas
 - Desenvolvendo lógica de programação e estruturas de dados
@@ -65,7 +65,7 @@ Status      : estudando · construindo · evoluindo
 
 ---
 
-## Contato
+## -Contato
 
 <div align="center">
 
