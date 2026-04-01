@@ -56,7 +56,7 @@ Status      : estudando · construindo · evoluindo
 
 ---
 
-## -Atualmente
+## -Atualmente-
 
 - Cursando Análise e Desenvolvimento de Sistemas
 - Desenvolvendo lógica de programação e estruturas de dados
@@ -65,7 +65,7 @@ Status      : estudando · construindo · evoluindo
 
 ---
 
-## -Contato
+## -Contato-
 
 <div align="center">
 
